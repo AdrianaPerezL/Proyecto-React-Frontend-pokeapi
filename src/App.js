@@ -11,7 +11,6 @@ function App() {
       <header className="App-header">
         
       <Navbar />
-      <Filter />
       <ListPokemons/>
       </header>
     </div>
